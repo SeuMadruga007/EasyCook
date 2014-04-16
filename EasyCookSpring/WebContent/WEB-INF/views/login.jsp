@@ -43,7 +43,6 @@
             <input type="text" id="txtEmail"  name="txtEmail"placeholder="Username" class="form-control">
             <input type="password"  id="txtSenha" name="txtSenha" placeholder="Password" class="form-control">
             <button class="btn btn-lg btn-primary btn-block" id="btnLogar" value="btnLogar" type="submit" >Entrar</button>
-            <a href="indexAdmin">Provisorio entrar</a>
           </form>
         </div>
         <div id="forgot" class="tab-pane">
