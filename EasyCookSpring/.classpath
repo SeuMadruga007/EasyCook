@@ -8,11 +8,6 @@
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_51">
-		<attributes>
-			<attribute name="owner.project.facets" value="java"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-dbcp-1.4.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-logging-1.1.1.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-pool-1.5.4.jar"/>
@@ -36,5 +31,6 @@
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-webmvc-3.2.1.RELEASE.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/sqljdbc4.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

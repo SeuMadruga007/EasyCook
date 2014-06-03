@@ -12,7 +12,7 @@ public class PaginacaoController {
       return "/index";
   }
   
-  @RequestMapping("/404")
+  @RequestMapping("404")
   public String execute2() {
       System.out.println("erro 404");
       return "/404";
