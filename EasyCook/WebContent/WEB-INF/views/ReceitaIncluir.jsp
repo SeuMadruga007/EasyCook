@@ -12,6 +12,7 @@
 	function incluirEstiloVida(){
 		var nome = $('#txtNome').val();
 		
+		
 		if(nome==null||nome==''){
 			alert('Favor inserir um nome para o Estilo de Vida.');
 		}else{
